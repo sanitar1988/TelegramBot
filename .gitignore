@@ -1,0 +1,12 @@
+obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+obj/Debug/net6.0/TelegramBot.AssemblyInfo.cs
+obj/Debug/net6.0/TelegramBot.AssemblyInfoInputs.cache
+obj/Debug/net6.0/TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/TelegramBot.GlobalUsings.g.cs
+obj/Debug/net6.0/TelegramBot.assets.cache
+obj/Debug/net6.0/TelegramBot.csproj.AssemblyReference.cache
+obj/project.assets.json
+obj/project.nuget.cache
+obj/TelegramBot.csproj.nuget.dgspec.json
+obj/TelegramBot.csproj.nuget.g.props
+obj/TelegramBot.csproj.nuget.g.targets
